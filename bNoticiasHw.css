@@ -117,6 +117,7 @@ h1{
     padding: 10px 15px;
 }
 
+
 .na li a{
     color: white;
     text-decoration: none;
@@ -124,9 +125,7 @@ h1{
     margin-left: 3%;
 }
 
-.na li:hover{
-    background-color: #434343;
-}
+
 
 .na li a:hover{
     color: #00FFFF;
